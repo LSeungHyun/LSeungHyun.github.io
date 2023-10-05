@@ -26,7 +26,7 @@
 
 <img src="./img/ntf1.jpg" width="200" heigh="200">
 <img src="./img/ntf2.jpg" width="200" heigh="200">
-[![](./img/ntf1.jpg )](https://youtu.be/ohClxMmNLQQ)
+[![](./img/ntf1.jpg)](https://youtu.be/ohClxMmNLQQ)
 
 # 3. 대표 이미지
 <img src="./img/ntfImg.jpg" width="200" heigh="200">
