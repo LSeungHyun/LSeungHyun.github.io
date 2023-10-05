@@ -23,9 +23,11 @@
 <br> <br>
 
 # 2. 관련 이미지 & 동영상
--이미지
+
 <img src="./img/ntf1.jpg">
 <img src="./img/ntf2.jpg">
--동영상
 [![](./img/ntf1.jpg)](https://youtu.be/ohClxMmNLQQ)
+
+# 3. 대표 이미지
+<img src="./img/ntfImg.jpg">
 
