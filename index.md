@@ -1,4 +1,4 @@
-# NineTailFox Adventure
+# NineTailFox Adventure (이승현, 임형균)
 
 # 1. 컨셉
 
