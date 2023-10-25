@@ -312,23 +312,28 @@ NinetailFoxAdventure의 요구사항
 시네마 이벤트 #1
 
 실험실에 누워있는 여우를 중심으로 카메라가 실험실 내부를 보여주고 있다.
+
 <img src="./img/cinema1.png" width="200" heigh="200">
 인 게임 -1
 
 여우가 동물을 구출해 내는 모습을 보여주고 있다.
+
 <img src="./img/ingame1.png" width="200" heigh="200">
 인게임 –2
 
 여우가 다른 동료 동물로 둔갑하는 모습을 보여주고 있다.
+
 <img src="./img/ingame2.png" width="200" heigh="200">
 인 게임 –3
 
 구출한 동료 동물 펭귄으로 변신하여 빙판 장애물을 지나가는 모습을 보여주고 있다.
+
 <img src="./img/ingame3.png" width="200" heigh="200">
 
 시네마 이벤트 #2
 
 여우와 다른 동료 동물들이 탈출에 성공해서 기뻐하는 모습을 보여주고 있다.
+
 <img src="./img/cinema2.png" width="200" heigh="200">
 
 # [Github Blog URL] 
