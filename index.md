@@ -34,7 +34,7 @@
 
 <br> <br>
 
-# 2. 관련 이미지 & 동영상 <a name ='#2'></a>
+# 2. 관련 이미지 & 동영상 <a name ='2'></a>
 
 <img src="./img/ntf1.jpg" width="200" heigh="200">
 <img src="./img/ntf2.jpg" width="200" heigh="200">
