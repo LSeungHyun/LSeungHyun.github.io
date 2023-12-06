@@ -48,7 +48,7 @@
 [목차](#목차)
 
 # 3. 대표 이미지 <a name ='3'></a>
-<img src="./img/MainImg.jpg" width="200" heigh="200">
+<img src="./img/MainImg.png" width="200" heigh="200">
 
 # [컨셉 & 대표이미지 기반 작품묘사] 
 
